@@ -90,4 +90,4 @@ The Express server exposes a single endpoint, `POST /api/gemini/generate`, which
 
 ---
 
-*Generated from the [google-gemini/aistudio-repository-template](https://github.com/google-gemini/aistudio-repository-template).*
+
