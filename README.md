@@ -1,4 +1,4 @@
-#🛰️Intra_Frames — Satellite Frame Interpolation Simulator
+## 🛰️Intra_Frames — Satellite Frame Interpolation Simulator
 
 An interactive meteorological simulator that shows how AI can "fill in the gaps" between satellite images. Polar-orbiting satellites usually capture a location only once a day — this project uses **RIFE (Real-time Intermediate Flow Estimation)**-style bilateral optical flow warping to synthesize the missing hourly frames in between, essentially boosting temporal resolution without needing more satellites.
 
