@@ -1,0 +1,6 @@
+{
+  "name": "Satellite Frame Interpolation Simulator",
+  "description": "An interactive meteorological simulator for satellite temporal resolution enhancement using RIFE bilateral optical flow warping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
